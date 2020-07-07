@@ -1,2 +1,2 @@
 # Vickrant-s
-This is repository where in i upload my Projects 
+This is my first application in python on face detection for Harcasscade and OpenCV
